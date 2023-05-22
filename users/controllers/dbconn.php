@@ -1,7 +1,7 @@
 <?php
 $host = 'localhost';
 $username = 'root';
-$password = 'cortiguerra';
+$password = '';
 $db = 'lmsphase2';
 
 $conn = mysqli_connect($host, $username, $password, $db);
