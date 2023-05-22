@@ -1,7 +1,7 @@
 <?php
 $host = "localhost";
 $name = "root";
-$pass = "cortiguerra";
+$pass = "";
 $db = "lmsphase2";
 
 
